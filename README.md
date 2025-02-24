@@ -1,5 +1,5 @@
 # museo
-versione 1 sistema gestionale museo
+versione 1 sistema gestionale museo -
 Gli utenti possono visitare il
 museo, comprando un biglietto venduto da un addetto alla
 biglietteria o usando biglietti acquistati precedentemente.
